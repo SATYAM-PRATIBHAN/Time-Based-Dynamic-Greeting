@@ -25,3 +25,13 @@ If you want to contribute to this project and make it better, your help is very 
 
 ```bash
 git clone https://github.com/SATYAM-PRATIBHAN//time-based-dynamic-greeting.git
+```
+2. Open the project directory:
+
+```bash
+cd time-based-dynamic-greeting
+```
+
+3. Open index.html in your web browser.
+
+4. You will see a personalized greeting message based on the current time.
